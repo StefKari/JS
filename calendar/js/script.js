@@ -33,8 +33,6 @@ next_mth_element.addEventListener('click', goToNextMonth);
 prev_mth_element.addEventListener('click', goToPrevMonth);
 
 // function
-
-
 function toggleCalendar(e) {
     dates_element.classList.add('active');
 }
