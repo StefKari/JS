@@ -1,13 +1,13 @@
 
-var searchButton = document.querySelector('button');
-var searchCity = document.querySelector('#city');
+const searchButton = document.querySelector('button');
+const searchCity = document.querySelector('#city');
 
-var loading = document.querySelector('#load');
-var weatherBox = document.querySelector('#weather');
+const loading = document.querySelector('#load');
+const weatherBox = document.querySelector('#weather');
 
-var weatherTemperature = document.querySelector('#weatherTemperature');
-var weatherDescription = document.querySelector('#weatherDescription');
-var weatherCity = document.querySelector('#weatherCity');
+const weatherTemperature = document.querySelector('#weatherTemperature');
+const weatherDescription = document.querySelector('#weatherDescription');
+const weatherCity = document.querySelector('#weatherCity');
 
 
 function Weather(cityName, description) {
