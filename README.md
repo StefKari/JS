@@ -1,2 +1,0 @@
-# API WeatherAPP
-# Custom Calendar
